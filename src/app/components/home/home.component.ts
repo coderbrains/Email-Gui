@@ -20,7 +20,7 @@ export class HomeComponent implements OnInit {
   {
     console.log("this si awanish");
 
-    this.snack.open("this is awanish kumar singh..");
+    this.snack.open("sending email..", "cancel");
   }
 
 
